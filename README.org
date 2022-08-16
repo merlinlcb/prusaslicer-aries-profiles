@@ -17,7 +17,7 @@ Thanks to just_trey for the platform texture and for turning Elegoo's cad files 
 
 ** Modifications/Notes
 
-- Configured printable area is 225mm x 210mm. This is to avoid the binder clips that come stock. If you've fitted a magnetic sheet without binder clips, you can increase the configured area to 225mm x 225mm.
+- Configured printable area is 280mm x 230mm. This is to avoid the binder clips that come stock. If you've fitted a magnetic sheet without binder clips, you can increase the configured area to 280mm x 240mm.
 - All filament temperatures and settings are the same as the Creality Ender 3.
 
 ** Credits
